@@ -112,13 +112,27 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
-<img width="393" alt="image" src="https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/89f58e0e-ef6b-49bc-a49a-f38af1f3846e">
+
+![image](https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/63d65191-28e0-4b84-a1ec-f601c2aef6e4)
+
+![image](https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/7bea3767-d3e1-49a7-a0b9-299a32cda803)
+
+## compute cost value:
+![image](https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/0be13603-de6a-4ab8-8db5-36f0f82ec843)
+
+## Cost function using Gradient Descent Graph :
+
+![image](https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/6b1b33e9-c105-4277-9b2c-9bf674cee81d)
 
 
-<img width="272" alt="image" src="https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/29ac4904-8359-43c9-9b32-69cd0ce596d7">
+## Profit for the Population 35,000 :
+
+![image](https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/0d5b1918-6824-4e4a-a00d-958ba3efa875)
 
 
+## Profit for the Population 70,000 :
 
+![image](https://github.com/kavisree86/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145759687/391f6342-d079-4f70-8905-459de4007e0e)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
